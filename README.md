@@ -61,13 +61,13 @@ This repository contains all the projects I completed as part of my **Web Develo
 
 ### 📂 File
 ```
-portfolio_rajaditya_final.html
+portfolio
 ```
 
 ### 🚀 Run Locally
 ```bash
 # No installation needed — just open in your browser
-open portfolio_rajaditya_final.html
+open portfolio.html
 ```
 
 ---
@@ -98,7 +98,7 @@ open portfolio_rajaditya_final.html
 
 ### 📂 File
 ```
-landing_page.html
+LANDING_PAGE
 ```
 
 ### 🚀 Run Locally
@@ -144,7 +144,7 @@ open landing_page.html
 
 ### 📂 File
 ```
-calculator.html
+CALCULATOR
 ```
 
 ### 🚀 Run Locally
@@ -159,7 +159,7 @@ open calculator.html
 ```
 📦 codsoft/
 │
-├── 📄 portfolio.html   ← Task 1: Personal Portfolio
+├── 📄 portfolio.html                   ← Task 1: Personal Portfolio
 ├── 🌐 landing_page.html                ← Task 2: Landing Page
 ├── 🧮 calculator.html                  ← Task 3: Calculator
 └── 📖 README.md                        ← You are here
