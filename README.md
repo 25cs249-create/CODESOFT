@@ -157,9 +157,9 @@ open calculator.html
 ## 📁 Repository Structure
 
 ```
-📦 codsoft-webdev-internship/
+📦 codsoft/
 │
-├── 📄 portfolio_rajaditya_final.html   ← Task 1: Personal Portfolio
+├── 📄 portfolio.html   ← Task 1: Personal Portfolio
 ├── 🌐 landing_page.html                ← Task 2: Landing Page
 ├── 🧮 calculator.html                  ← Task 3: Calculator
 └── 📖 README.md                        ← You are here
@@ -200,18 +200,6 @@ All projects run directly in the browser — just open the `.html` file.
 
 ---
 
-## 📬 Connect with Me
-
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajaditya-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajaditya)
-[![GitHub](https://img.shields.io/badge/GitHub-rajaditya-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajaditya)
-[![Email](https://img.shields.io/badge/Email-rajaditya@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajaditya@email.com)
-
-</div>
-
----
-
 ## 🏢 About CODSOFT
 
 [CODSOFT](https://www.codsoft.in/) is an internship platform that provides real-world project experience for students and freshers in technology domains including web development, Android, data science, machine learning, and more.
@@ -222,6 +210,6 @@ All projects run directly in the browser — just open the `.html` file.
 
 **⭐ If you found this helpful, please star the repo!**
 
-Made with ❤️ by **Rajaditya** as part of the **CODSOFT Web Development Internship · 2025**
+Made with ❤️ by **Rajaditya** as part of the **CODSOFT Web Development Internship · 2026**
 
 </div>
